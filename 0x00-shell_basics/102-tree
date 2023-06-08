@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *~
+mekdir -p welcome/to/school`
